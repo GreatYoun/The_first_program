@@ -1,2 +1,12 @@
 # The_first_program
-The first program si built in 20161202
+
+
+
+#include<stdio.h>
+int main(int argc .char **argv)
+{
+  printf("helloworld\n");
+}
+
+
+//The first program si built in 20161202
